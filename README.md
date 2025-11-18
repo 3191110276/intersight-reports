@@ -7,6 +7,7 @@ This tool builds Excel reports of data in Cisco Intersight.
 2. Download a release of the tool onto your host and unzip it
 3. Install the required modules via 'pip install - r requirements.txt'
 4. Create a configuration file in the main directory of the downloaded folder, and add other files as required
+5. Use Python to run 'main.py'
 
 ## Configuration File
 Before you can run the this tool, you will have to create a configuration file. The basic template for it looks like this:
